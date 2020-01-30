@@ -1,17 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="138f9232-f061-4dbc-ab84-8bd19f7af9c4" name="Default Changelist" comment="" />
+    <list default="true" id="138f9232-f061-4dbc-ab84-8bd19f7af9c4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1X7b8ap8Wqj5cOpOHlq70hsEhku" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -49,5 +61,15 @@
       <updated>1580399921317</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="167" key="#Project_Structure" timestamp="1580400447727">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="440" y="167" key="#Project_Structure/0.23.1680.958/1680.23.1920.1057@0.23.1680.958" timestamp="1580400447727" />
+    <state x="217" y="124" key="new project wizard" timestamp="1580400400860">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="217" y="124" key="new project wizard/0.23.1680.958/1680.23.1920.1057@0.23.1680.958" timestamp="1580400400860" />
   </component>
 </project>
