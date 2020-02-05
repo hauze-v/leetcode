@@ -19,6 +19,10 @@ public class Main {
         System.out.println("The longest common prefix amongst the list of strings is: " + lcp.longestCommonPrefix(wordsWithout));
         */
 
+        // Valid Parentheses
+        ValidParentheses vp = new ValidParentheses();
+        System.out.println(vp.isValid("{}"));
+
     }
 }
 
